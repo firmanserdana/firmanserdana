@@ -1,3 +1,14 @@
+### :wave: :indonesia: :shipit:
+:fire: :fire: :fire: currently dealing with lots of code and tech stacks :ghost:
+
+mostly codes :feelsgood: :keyboard: :electron:
+
+then researching :microscope: :mechanical_arm:
+
+ocassionally lecturing :stethoscope: :medical_symbol: :zap:
+
+seldom gaming :video_game: (I truly need spare time for this, please..)
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/firmaniserdana) 
