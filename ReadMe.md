@@ -2,6 +2,9 @@
 ### :wave: :indonesia: :shipit:<br>:fire: :fire: :fire: currently dealing with lots of code and tech stacks :ghost:<br><br>mostly codes :feelsgood: :keyboard: :electron:<br><br>then researching :microscope: :mechanical_arm:<br><br>ocassionally lecturing :stethoscope: :medical_symbol: :zap:<br><br>seldom gaming :video_game: (I truly need spare time for this, please..)<br><br><br>
 
 
+## :shipit: Details:
+[![Curriculum Vitae](https://img.shields.io/badge/Curriculum-Vitae-blue)](https://fthecatrock.notion.site/) 
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/firmaniserdana) 
 
